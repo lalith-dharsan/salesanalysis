@@ -1,8 +1,6 @@
-pip install plotly
-
 import pandas as pd
 import streamlit as st
-import plotly.express as px
+#import plotly.express as px
 from PIL import Image
 import sqlite3
 import mysql.connector
